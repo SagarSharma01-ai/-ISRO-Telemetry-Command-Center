@@ -1,7 +1,5 @@
 # 🚀 ISRO Telemetry Command Center
 
-# 🚀 ISRO Telemetry Command Center
-
 <p float="left">
   <img src="https://github.com/user-attachments/assets/75cd7b3d-3117-41c4-b27d-df768a5ffaf5" width="250" />
   <span style="margin-left:20px;"></span>
