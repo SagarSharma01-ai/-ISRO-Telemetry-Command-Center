@@ -1,8 +1,15 @@
 # 🚀 ISRO Telemetry Command Center
+
+<!-- Pehle do images side-by-side -->
 <p float="left">
   <img src="https://github.com/user-attachments/assets/75cd7b3d-3117-41c4-b27d-df768a5ffaf5" width="300" />
   <span style="margin-left:20px;"></span>
   <img src="https://github.com/user-attachments/assets/5d67de27-50c8-4fdc-ad61-d1777f44cd25" width="300" />
+</p>
+
+<!-- Teesri image alag line me -->
+<p>
+  <img src="https://github.com/user-attachments/assets/6583a504-8bc2-4123-ba6e-16abfd17166c" width="300" />
 </p>
 
 
