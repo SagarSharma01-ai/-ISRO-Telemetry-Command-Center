@@ -36,8 +36,6 @@ A highly interactive, dark-themed Power BI dashboard designed to simulate a real
 
 <img width="1219" height="683" alt="image" src="https://github.com/user-attachments/assets/e005382f-a3c1-468b-8650-fee82eb21017" />
 
-<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/40f48265-c654-484c-963e-7ca72c69c88a" />
-
 <img width="1218" height="681" alt="image" src="https://github.com/user-attachments/assets/f3aa3f3e-1848-44c1-91da-1735581b5c86" />
 
 <img width="1222" height="678" alt="image" src="https://github.com/user-attachments/assets/042215d2-2e7a-410f-8f76-f2c7e937b0d7" />
