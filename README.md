@@ -1,7 +1,10 @@
 # 🚀 ISRO Telemetry Command Center
-<img width="474" height="834" alt="15 august independence day" src="https://github.com/user-attachments/assets/75cd7b3d-3117-41c4-b27d-df768a5ffaf5" />
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/75cd7b3d-3117-41c4-b27d-df768a5ffaf5" width="300" />
+  <span style="margin-left:20px;"></span>
+  <img src="https://github.com/user-attachments/assets/5d67de27-50c8-4fdc-ad61-d1777f44cd25" width="300" />
+</p>
 
-<img width="474" height="842" alt="6 upcoming space missions of ISRO in 2024" src="https://github.com/user-attachments/assets/5d67de27-50c8-4fdc-ad61-d1777f44cd25" />
 
 
 **Lead Analyst:** Sagar Sharma  
